@@ -1,0 +1,11 @@
+{
+    "name": "love2d-hx",
+    "url": "https://github.com/darkwater/love2d-hx",
+    "license": "BSD",
+    "tags": [ "cross", "game", "lua", "android", "framework" ],
+    "description": "Externs for the LÖVE framework",
+    "version": "0.10.2-alpha",
+    "classPath": "src/",
+    "releasenote": "Initial release",
+    "contributors": [ "darkwater" ]
+}
